@@ -1,0 +1,283 @@
+[
+    {
+        "tray_title": "Free - Newly Added",
+        "tray_id": "8559",
+        "tray_type": "editorial",
+        "offset_limit": 100
+    },
+    {
+        "tray_title": "Hand-Picked For Couples",
+        "tray_id": "74def5dd-721d-4b82-a542-01feb78ca6df",
+        "tray_type": "persona-collection",
+        "offset_limit": 100
+    },
+    {
+        "tray_title": "Popular Shows",
+        "tray_id": "reco-pop_CgNBbGwaBFNob3ciA0FsbA",
+        "tray_type": "leaderboard",
+        "tokens": [
+            "tel,2,hin,13,eng,1,ben,1,mar,1,tam,2&20",
+            "ben,3,eng,1,tel,4,hin,25,tam,4,mar,2,mal,1&20",
+            "mar,3,tel,6,ben,4,hin,37,eng,2,mal,2,tam,6&20",
+            "mal,3,mar,4,tel,9,tam,8,eng,3,hin,47,ben,6&20",
+            "ben,7,mal,3,tel,11,tam,10,eng,4,mar,5,hin,59,kan,1&20",
+            "tel,13,ben,9,kan,1,eng,5,mal,4,tam,12,mar,6,hin,70&20",
+            "mar,8,mal,5,tel,15,hin,81,eng,6,ben,10,kan,1,tam,14&20",
+            "eng,7,ben,12,tel,17,kan,1,tam,15,mal,6,hin,93,mar,9&20",
+            "tel,19,mal,7,tam,17,hin,104,eng,8,ben,13,mar,10,kan,2&20",
+            "eng,9,ben,15,tel,21,kan,2,hin,116,mar,11,tam,19,mal,7&20",
+            "tel,24,ben,17,mal,8,eng,10,mar,12,tam,22,kan,2,hin,129&20",
+            "mar,13,tel,26,ben,18,hin,141,tam,24,kan,2,mal,9,eng,11&20",
+            "hin,152,mar,15,mal,10,kan,2,ben,20,tel,28,eng,12,tam,25&20",
+            "ben,21,eng,13,kan,3,tam,28,tel,30,hin,163,mar,16,mal,10&20",
+            "mar,17,kan,3,eng,14,tel,33,ben,23,tam,30,mal,11,hin,175&20",
+            "mal,12,hin,189,kan,3,tel,35,ben,25,tam,32,eng,15,mar,18&20",
+            "tel,37,tam,34,mar,20,hin,201,mal,13,ben,26,eng,16,kan,3&20",
+            "hin,213,tam,36,eng,16,mal,14,tel,40,mar,21,kan,4,ben,28&20"
+        ]
+    },
+    {
+        "tray_title": "Movies from the 2010s",
+        "tray_id": "reco-tpfy_KgMxNzY",
+        "tray_type": "reco-collection",
+        "offset_limit": 100
+    },
+    {
+        "tray_title": "Popular Movies",
+        "tray_id": "reco-pop_CgNBbGwaBU1vdmllIgNBbGw",
+        "tray_type": "leaderboard",
+        "tokens": [
+            "tel,3,hin,16,tam,3,mar,1,ben,2,eng,1,mal,1&20",
+            "eng,2,ben,4,mar,3,hin,32,tel,7,tam,6,mal,3&20",
+            "hin,46,eng,2,tel,10,tam,9,mar,5,mal,5,ben,6&20",
+            "mar,6,eng,2,tel,13,mal,7,tam,11,kan,1,hin,57,ben,8&20",
+            "hin,69,kan,1,mal,8,tel,16,tam,14,ben,9,mar,7,eng,2&20",
+            "mar,9,ben,11,eng,2,tam,16,hin,81,tel,19,mal,9,kan,1&20",
+            "eng,2,mar,10,mal,11,ben,13,kan,1,tel,21,hin,92,tam,18&20",
+            "tam,21,ben,14,mal,12,eng,2,kan,2,mar,11,tel,24,hin,104&20",
+            "kan,2,hin,114,mar,12,eng,2,ben,16,tel,27,tam,23,mal,14&20",
+            "hin,125,eng,2,mal,15,ben,18,tam,25,tel,29,mar,14,kan,2&20",
+            "kan,2,tel,32,mar,15,ben,19,tam,27,mal,16,hin,137,eng,2&20",
+            "eng,2,kan,3,tam,29,mal,18,ben,21,tel,35,hin,147,mar,16&20",
+            "kan,3,mal,19,hin,159,tam,32,mar,17,tel,37,eng,2,ben,22&20",
+            "eng,2,mal,20,tel,40,ben,24,tam,34,kan,3,hin,169,mar,19&20",
+            "mal,22,tam,36,kan,3,ben,26,hin,181,mar,20,tel,43,eng,2&20",
+            "mal,23,kan,4,tam,39,ben,27,eng,2,mar,21,tel,46,hin,192&20",
+            "tel,48,tam,41,mar,22,kan,4,mal,25,hin,203,ben,29,eng,2&20",
+            "hin,214,eng,2,tam,43,kan,4,ben,30,mal,26,mar,24,tel,51&20",
+            "mal,27,hin,226,ben,32,kan,4,mar,24,tam,45,eng,2,tel,54&20",
+            "eng,2,tam,48,kan,5,hin,238,tel,56,mar,24,ben,34,mal,29&20",
+            "ben,36,eng,2,tam,50,mar,24,hin,250,tel,59,mal,30,kan,5&20",
+            "eng,2,tel,62,ben,37,tam,53,hin,261,kan,5,mal,32,mar,24&20",
+            "kan,5,tam,55,tel,65,mal,33,eng,2,mar,24,ben,39,hin,273&20",
+            "eng,2,mal,35,hin,285,ben,40,kan,6,mar,24,tel,68,tam,57&20",
+            "tam,60,eng,2,mal,36,mar,24,kan,6,tel,70,ben,42,hin,297&20",
+            "mar,24,ben,42,hin,310,tel,73,tam,62,eng,2,kan,6,mal,38&20",
+            "tel,77,eng,2,mar,24,ben,42,tam,65,kan,6,hin,322,mal,39&20",
+            "ben,42,hin,335,kan,7,eng,2,tel,79,mar,24,mal,41,tam,67&20",
+            "tel,83,mar,24,kan,7,mal,42,ben,42,eng,2,hin,347,tam,70&20",
+            "tel,86,tam,72,kan,7,mar,24,hin,360,mal,44,eng,2,ben,42&20",
+            "tel,89,kan,7,tam,75,mal,45,mar,24,ben,42,hin,373,eng,2&20",
+            "eng,2,ben,42,kan,8,tam,78,mar,24,hin,385,mal,47,tel,91&20",
+            "mal,48,hin,398,tel,95,tam,80,ben,42,mar,24,kan,8,eng,2&20",
+            "mar,24,tam,83,hin,410,mal,50,eng,2,kan,8,tel,98,ben,42&20",
+            "mar,24,ben,42,eng,2,tam,85,tel,101,hin,423,kan,9,mal,51&20",
+            "ben,42,tel,104,tam,88,hin,435,kan,9,mar,24,mal,53,eng,2&20",
+            "tel,111,kan,10,hin,437,ben,42,mar,24,eng,2,tam,94,mal,57&20",
+            "mal,61,kan,10,mar,24,ben,42,tel,120,tam,101,eng,2,hin,437&20",
+            "tel,128,ben,42,mar,24,eng,2,kan,11,tam,108,hin,437,mal,65&20",
+            "tam,115,ben,42,mar,24,hin,437,eng,2,mal,69,kan,12,tel,136&20",
+            "mar,24,kan,12,ben,42,mal,74,tam,122,hin,437,tel,144,eng,2&20",
+            "hin,437,eng,2,tel,152,mal,78,ben,42,tam,129,kan,13,mar,24&20",
+            "eng,2,hin,437,mal,82,mar,24,tam,136,ben,42,kan,14,tel,160&20",
+            "tel,168,mar,24,hin,437,tam,143,ben,42,eng,2,kan,15,mal,86&20",
+            "kan,15,tam,150,mar,24,ben,42,eng,2,hin,437,mal,91,tel,176&20",
+            "kan,16,eng,2,tel,185,ben,42,tam,156,hin,437,mar,24,mal,95&20",
+            "mar,24,ben,42,hin,437,mal,99,eng,2,kan,17,tam,163,tel,193&20",
+            "eng,2,tel,201,mar,24,mal,103,ben,42,tam,170,kan,18,hin,437&20",
+            "tam,178,hin,437,kan,18,eng,2,mal,107,tel,209,ben,42,mar,24&20",
+            "tam,184,hin,437,mar,24,kan,19,mal,112,ben,42,tel,217,eng,2&20",
+            "tel,226,mar,24,eng,2,hin,437,tam,191,ben,42,mal,116,kan,20&20",
+            "kan,21,eng,2,ben,42,mar,24,tam,198,mal,120,tel,234,hin,437&20",
+            "hin,437,tam,206,mar,24,mal,124,tel,242,kan,21,ben,42,eng,2&20",
+            "hin,437,tam,212,ben,42,eng,2,mal,129,kan,22,tel,250,mar,24&20",
+            "kan,23,ben,42,eng,2,tel,258,mar,24,hin,437,tam,219,mal,133&20",
+            "hin,437,mar,24,eng,2,ben,42,mal,137,kan,23,tel,267,tam,227&20",
+            "kan,24,mar,24,eng,2,ben,42,tam,229,mal,143,hin,437,tel,278&20",
+            "mar,24,kan,26,tam,229,ben,42,tel,290,eng,2,hin,437,mal,149&20",
+            "ben,42,eng,2,hin,437,kan,27,mal,155,tel,303,tam,229,mar,24&20",
+            "eng,2,hin,437,kan,28,mar,24,mal,162,tel,315,ben,42,tam,229&20",
+            "mar,24,ben,42,tel,328,eng,2,mal,168,hin,437,kan,29,tam,229&20",
+            "hin,437,kan,30,eng,2,tel,340,tam,229,mal,175,mar,24,ben,42&20",
+            "tam,229,eng,2,tel,353,mar,24,hin,437,kan,31,mal,181,ben,42&20",
+            "tam,229,eng,2,mar,24,kan,32,tel,365,ben,42,hin,437,mal,188&20",
+            "mar,24,kan,34,tam,229,mal,200,eng,2,tel,371,ben,42,hin,437&20",
+            "tam,229,eng,2,ben,42,tel,371,mal,217,kan,37,hin,437,mar,24&20",
+            "eng,2,ben,42,mar,24,kan,40,hin,437,tam,229,mal,234,tel,371&20",
+            "ben,42,tam,229,mal,252,hin,437,eng,2,mar,24,kan,43,tel,371&20",
+            "mar,24,mal,269,tam,229,hin,437,tel,371,kan,46,eng,2,ben,42&20",
+            "tel,371,hin,437,mal,286,kan,49,eng,2,ben,42,mar,24,tam,229&20",
+            "tel,371,mar,24,kan,52,hin,437,tam,229,ben,42,mal,303,eng,2&20",
+            "tam,229,mar,24,eng,2,tel,371,kan,55,ben,42,hin,437,mal,320&20",
+            "kan,58,ben,42,hin,437,tam,229,mar,24,tel,371,mal,337,eng,2&20",
+            "ben,42,tam,229,mal,354,tel,371,kan,61,hin,437,eng,2,mar,24&20",
+            "tel,371,tam,229,eng,2,mal,371,hin,437,ben,42,kan,64,mar,24&20",
+            "hin,437,mal,388,eng,2,tel,371,ben,42,mar,24,kan,67,tam,229&20",
+            "kan,70,tam,229,mal,405,ben,42,eng,2,mar,24,tel,371,hin,437&20",
+            "ben,42,mar,24,mal,422,kan,73,tel,371,hin,437,tam,229,eng,2&20",
+            "eng,2,mar,24,mal,439,hin,437,ben,42,kan,76,tam,229,tel,371&20",
+            "kan,79,mar,24,ben,42,mal,456,tel,371,tam,229,hin,437,eng,2&20",
+            "tam,229,ben,42,kan,82,eng,2,mal,473,tel,371,hin,437,mar,24&20",
+            "tel,371,eng,2,kan,85,mar,24,hin,437,mal,490,ben,42,tam,229&20",
+            "eng,2,kan,88,mal,507,mar,24,tam,229,hin,437,ben,42,tel,371&20",
+            "mar,24,mal,524,kan,91,hin,437,tel,371,ben,42,eng,2,tam,229&20",
+            "tam,229,ben,42,mal,541,tel,371,hin,437,mar,24,eng,2,kan,94&20",
+            "tel,371,mal,558,tam,229,mar,24,ben,42,hin,437,eng,2,kan,97&20",
+            "kan,100,mar,24,mal,575,hin,437,tam,229,ben,42,tel,371,eng,2&20",
+            "mal,592,ben,42,kan,103,tam,229,tel,371,mar,24,hin,437,eng,2&20",
+            "kan,106,ben,42,mal,609,hin,437,mar,24,tam,229,tel,371,eng,2&20",
+            "mal,626,tel,371,ben,42,kan,109,mar,24,eng,2,tam,229,hin,437&20",
+            "kan,112,tel,371,hin,437,ben,42,mal,643,mar,24,tam,229,eng,2&20",
+            "tel,371,ben,42,hin,437,mar,24,tam,229,eng,2,mal,660,kan,115&20",
+            "mal,677,hin,437,ben,42,eng,2,kan,118,mar,24,tam,229,tel,371&20",
+            "hin,437,eng,2,tam,229,mal,694,tel,371,ben,42,mar,24,kan,121&20",
+            "ben,42,kan,124,eng,2,mar,24,tam,229,tel,371,hin,437,mal,711&20",
+            "ben,42,tel,371,tam,229,mal,728,kan,127,eng,2,mar,24,hin,437&20",
+            "mal,746,kan,129,tam,229,hin,437,eng,2,tel,371,ben,42,mar,24&20",
+            "tel,371,tam,229,hin,437,kan,140,ben,42,mal,755,mar,24,eng,2&20",
+            "mar,24,mal,755,eng,2,tel,371,hin,437,ben,42,kan,160,tam,229&20",
+            "tam,229,tel,371,eng,2,mar,24,mal,755,hin,437,ben,42,kan,180&20",
+            "ben,42,tam,229,tel,371,kan,200,eng,2,hin,437,mal,755,mar,24&20",
+            "kan,220,eng,2,tel,371,mal,755,hin,437,ben,42,mar,24,tam,229&20",
+            "mar,24,mal,755,kan,240,eng,2,hin,437,tel,371,ben,42,tam,229&20",
+            "ben,42,eng,2,tam,229,kan,260,mar,24,tel,371,mal,755,hin,437&20",
+            "hin,437,eng,2,ben,42,tam,229,tel,371,mal,755,kan,280,mar,24&20",
+            "hin,437,tel,371,tam,229,kan,300,mal,755,ben,42,eng,2,mar,24&20",
+            "tel,371,hin,437,kan,320,tam,229,eng,2,ben,42,mar,24,mal,755&20",
+            "eng,2,mar,24,ben,42,tel,371,mal,755,hin,437,kan,340,tam,229&20"        
+        ]
+    },
+    {
+        "tray_title": "Best of Superheroes",
+        "tray_id": "6471",
+        "tray_type": "editorial",
+        "offset_limit": 100
+    },
+    {
+        "tray_title": "Popular in Thriller",
+        "tray_id": "reco-pop_CghUaHJpbGxlchoDQWxsIgNBbGw",
+        "tray_type": "leaderboard",
+        "tokens": [
+            "eng,1,tel,2,ben,2,mar,1,mal,1,hin,15,tam,2&20",
+            "hin,31,eng,1,ben,4,tam,5,mal,2,mar,1,tel,5&20",
+            "tel,9,ben,6,mal,3,mar,1,hin,48,eng,1,tam,8&20",
+            "ben,8,kan,1,eng,1,mal,4,tel,11,tam,10,mar,1,hin,62&20",
+            "tel,14,kan,1,tam,12,mal,5,ben,10,hin,76,mar,1,eng,1&20",
+            "mal,8,ben,12,kan,2,tam,21,mar,1,eng,1,tel,23,hin,77&20",
+            "hin,77,tel,28,eng,1,mar,1,ben,12,kan,4,tam,29,mal,14&20",
+            "mar,1,tam,29,eng,1,mal,30,tel,28,kan,8,hin,77,ben,12&20",
+            "hin,77,tam,29,mar,1,kan,13,mal,45,ben,12,tel,28,eng,1&20",
+            "hin,77,mal,61,ben,12,kan,17,tam,29,tel,28,eng,1,mar,1&20",
+            "tel,28,ben,12,tam,29,kan,17,mar,1,mal,81,eng,1,hin,77&20"
+        ]
+    },
+    {
+        "tray_title": "Popular in Action",
+        "tray_id": "reco-pop_CgZBY3Rpb24aA0FsbCIDQWxs",
+        "tray_type": "leaderboard",
+        "tokens": [
+            "mar,1,ben,2,tam,2,tel,3,mal,1,hin,16,eng,1&20",
+            "tel,6,hin,32,mal,2,tam,5,mar,2,ben,4,eng,2&20",
+            "eng,2,tam,8,mar,2,mal,3,ben,6,tel,9,hin,50&20",
+            "tam,11,tel,12,mal,4,kan,1,ben,8,hin,65,mar,2,eng,2&20",
+            "tel,14,kan,1,hin,79,mar,2,eng,2,ben,10,tam,13,mal,5&20",
+            "ben,12,hin,91,kan,1,tam,15,mal,6,mar,2,tel,17,eng,2&20",
+            "tel,20,mal,7,eng,2,ben,14,kan,2,tam,18,mar,2,hin,106&20",
+            "mar,2,tam,20,tel,22,eng,2,hin,120,kan,2,mal,8,ben,15&20",
+            "mar,2,eng,2,tel,28,tam,26,kan,2,ben,15,hin,126,mal,10&20",
+            "hin,126,mal,13,mar,2,tel,37,ben,15,kan,3,tam,34,eng,2&20"
+        ]
+    },
+    {
+        "tray_title": "Exclusive Indian Movies",
+        "tray_id": "6585",
+        "tray_type": "editorial",
+        "offset_iteration": 2,
+        "offset_limit": 150
+    },
+    {
+        "tray_title": "Critically Acclaimed Movies",
+        "tray_id": "c578759c-9fd8-46ea-b7a4-b733107c9e49",
+        "tray_type": "persona-collection",
+        "ipv_mode": "sort",
+        "collectionId": "c578759c-9fd8-46ea-b7a4-b733107c9e49",
+        "offset_iteration": 2,
+        "offset_limit": 175
+    },
+    {
+        "tray_title": "Watch with Friends",
+        "tray_id": "05efa95e-4ac6-4aba-8cab-da2e54df3df1",
+        "tray_type": "persona-collection",
+        "ipv_mode": "sort",
+        "collectionId": "05efa95e-4ac6-4aba-8cab-da2e54df3df1",
+        "offset_iteration": 2,
+        "offset_limit": 175
+    },
+    {
+        "tray_title": "Popular in Romance",
+        "tray_id": "reco-pop_CgdSb21hbmNlGgNBbGwiA0FsbA",
+        "tray_type": "leaderboard",
+        "tokens": [
+            "mar,1,ben,1,eng,1,hin,13,tam,2,tel,2&20",
+            "hin,25,tam,4,ben,3,mal,1,tel,4,eng,2,mar,2&20"
+        ]
+    },
+    {
+        "tray_title": "Popular in Crime",
+        "tray_id": "reco-pop_CgVDcmltZRoDQWxsIgNBbGw",
+        "tray_type": "leaderboard",
+        "tokens": [
+            "mal,1,mar,1,hin,18,tel,3,tam,3,eng,1&20",
+            "tam,5,mar,3,tel,5,eng,1,mal,2,hin,31&20"
+        ]
+    },
+    {
+        "tray_title": "Popular in Comedy",
+        "tray_id": "reco-pop_CgZDb21lZHkaA0FsbCIDQWxs",
+        "tray_type": "leaderboard",
+        "tokens": [
+            "hin,15,tam,2,eng,1,mal,1,tel,2,mar,1,ben,2&20",
+            "mar,2,tam,5,mal,2,ben,3,eng,2,hin,29,tel,5&20"
+        ]
+    },
+    {
+        "tray_title": "Popular in Biopic",
+        "tray_id": "reco-pop_CgZCaW9waWMaA0FsbCIDQWxs",
+        "tray_type": "leaderboard",
+        "tokens": "hin,10,tel,3,mar,1,ben,4,tam,3,mal,3&20"
+    },
+    {
+        "tray_title": "Top Rated on IMDb",
+        "tray_id": "reco-tpfy_KgI1Mg",
+        "tray_type": "reco-collection",
+        "offset_limit": 100
+    },
+    {
+        "tray_title": "Thriller Movies",
+        "tray_id": "reco-tpfy_CgECGghUaHJpbGxlcg",
+        "tray_type": "reco-collection",
+        "offset_limit": 100
+    },
+    {
+        "tray_title": "Comedy Movies",
+        "tray_id": "reco-tpfy_CgECGgZDb21lZHk",
+        "tray_type": "reco-collection",
+        "offset_limit": 100
+    },
+    {
+        "tray_title": "Latest Releases",
+        "tray_id": "tp-ed_CJE3EAEaAQI",
+        "tray_type": "reco-editorial",
+        "offset_limit": 100
+    }
+]
