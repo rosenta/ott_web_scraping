@@ -2,8 +2,8 @@ import json
 import requests
 
 cookies = {
-    'SecureNetflixId': 'v%3D2%26mac%3DAQEAEQABABSso5AdAyc6d1rLm-N-ww2pmkw_gZ-MUSc.%26dt%3D1697065093678',
-    'NetflixId': 'v%3D2%26ct%3DBQAOAAEBEPpZZEBgGGyA-6R91KRsj5uBwKBSBq3roimqQ-myMTBpr5EOJscSEGN-imXJuk_pqxAWCmWnIHItBFFjdOCphMGRG5YI_Dehl-jMpEtCC2tdaALH-LRJCC2qk1G-bJBQFPjBqDn_NhaxZ5No9iAXvoF7G6--GxfBfRpoiYi3WWrHpvdYnO19VZaiEQFUC7jydWYOK1AmnMK2gzx71-_Xy6S2qBoog9ro7SfWLyjBY7V-sgIf_h0Ax4NhUbaCj_saQntQ7FQ7v3u9YoH88cnboovO1Rhclb_hT0XpxaQu5sqkzzi_yba164AtFZv7Mrhv6bPNNuLiIaWCHlgLCh9VRQc24IajbuQSNL2r5iG8CH-T2_UGcCjaSNfwK8msk7_qzmfxwIAHGl3NGEXtdPWY31599cSYqUBpHKZqEt6dk6FHvLldaVY6iJdJDmAxQkf3DTi1rNx5VFzZR_kEzq7uj7OLKx1EK1WA1u344Is_m1b_G_U6MudCr4kuDW5lzrF0V0yrie-45ydG7k7U2Ky9LQC0WZCt1xF-WDx3X_u9Vh1LiywBNo3jGFgI00NxeEXk_6OWGUDEaKCFKbh2hNZxv8FeG68qwHUvTyYQrMKv2n0yeAI.%26bt%3Ddbl%26ch%3DAQEAEAABABRaung3lxsP7zP6KpvmzVirkNLdm8L31PE.%26mac%3DAQEAEAABABTNJh-SZrVtr2uOWNrPU1LpO1YHsE8ElEM.',
+    'SecureNetflixId': '<your_netflix_id>',
+    'NetflixId': '<your_netflix_id>',
 }
 
 headers = {
